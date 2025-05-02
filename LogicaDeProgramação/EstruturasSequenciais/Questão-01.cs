@@ -3,7 +3,7 @@ using System.Globalization;
 
 namespace LogicaDeProgramacao
 {
-    class Questao_01
+    class Program
     {
         static void Main(string[] args)
         {
@@ -24,6 +24,7 @@ namespace LogicaDeProgramacao
 
             Console.WriteLine($"Area do terreno = {area_terreno.ToString("F2", CI)}");
             Console.WriteLine($"Preco do terreno = {preco.ToString("F2", CI)}");
+
         }
     }
 }
