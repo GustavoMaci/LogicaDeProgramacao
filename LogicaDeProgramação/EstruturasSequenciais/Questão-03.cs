@@ -3,7 +3,7 @@ using System.Globalization;
 
 namespace LogicaDeProgramacao
 {
-    class Questao_03
+    class Questao_03_Sequenciais
     {
         static void Main(string[] args)
         {
